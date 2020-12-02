@@ -34,7 +34,7 @@ namespace Lab3
 
         public Queue<IInstruction> instructions { get; set; } = new Queue<IInstruction>();
 
-        public string Path { get; set; } = @"/Users/eduardandrasuk/coding/лабкиШевчук/Lab3/exampleCommands.txt";
+        public string Path { get; set; } = @"./exampleCommands.txt";
 
         #endregion
 
