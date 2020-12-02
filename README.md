@@ -1,9 +1,14 @@
-# Lab3CA
-
-Computing Architecture Lab №3
+# Lab3 Computing Architecture
 
 To run solution:
 
-> cd Lab3fs
+```sh
+$ cd Lab3fs
+$ dotnet run
+```
 
-> dotnet run
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
+## License
+
+MIT
